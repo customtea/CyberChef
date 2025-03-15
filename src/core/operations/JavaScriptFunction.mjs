@@ -20,7 +20,7 @@ class JavaScriptFunction extends Operation {
 
         this.name = "JavaScriptFunction";
         this.module = "Other";
-        this.description = "Java Script Function";
+        this.description = "JavaScript Function";
         this.infoURL = ""; // Usually a Wikipedia link. Remember to remove localisation (i.e. https://wikipedia.org/etc rather than https://en.wikipedia.org/etc)
         this.inputType = "string";
         this.outputType = "string";
